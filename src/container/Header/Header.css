@@ -1,0 +1,22 @@
+.app__header {
+  background-color: var(--color-black);
+}
+.app__header-h1 {
+  font-family: var(--font-base);
+  color: var(--color-golden);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 117px;
+  font-size: 85px;
+}
+@media (max-width: 650px) {
+  .app__header-h1 {
+    font-size: 70px;
+  }
+}
+@media (min-width: 1150px) {
+.my_padding{
+  padding-top: 0px !important;
+}
+
+}
