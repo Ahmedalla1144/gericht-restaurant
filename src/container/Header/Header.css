@@ -11,7 +11,8 @@
 }
 @media (max-width: 650px) {
   .app__header-h1 {
-    font-size: 40px;
+    font-size: 50px;
+    line-height: 80px;
   }
 }
 @media (min-width: 1150px) {
